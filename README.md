@@ -12,7 +12,7 @@ A field survey and biodiversity documentation report compiled as a collective cl
 | **Institution** | Shiv Nadar University, Chennai |
 | **Department** | B.Tech CSE (IoT) - A |
 | **Survey Location** | Across various blocks and locations inside the campus |
-| **Survey Radius** | 0.5 kilometre radius inside the campus |
+| **Survey Radius** | Inside the campus |
 | **Survey Period** | 29-07-2026 to 16-08-2026 (Research and Collection) |
 
 
