@@ -13,21 +13,8 @@ A field survey and biodiversity documentation report compiled as a collective cl
 | **Department** | B.Tech CSE (IoT) - A |
 | **Survey Location** | Across various blocks and locations inside the campus |
 | **Survey Radius** | 0.5 kilometre radius inside the campus |
-| **Survey Period** | 29-07-2026 to 12-08-2026 (Collection) |
-| **Documentation** | 12-08-2026 to 16-08-2026 (Research) |
-| **Submission Date** | 16 September 2026 |
+| **Survey Period** | 29-07-2026 to 16-08-2026 (Research and Collection) |
 
-### Team Members
-| Name | Roll Number |
-|---|---|
-| Gowtham V | 25011102034 |
-| Jeevalingam M | 25011102044 |
-| Kailesh S | 25011102046 |
-| Mobathi S | 25011102057 |
-| Naga Dharsan N | 25011102060 |
-
----
----
 
 ## 📍 Study Area
 
@@ -49,4 +36,4 @@ Our campus biodiversity survey revealed that the campus supports a considerable 
 
 **Submitted to:** Dr. K. Uthradevi, Assistant Professor-I, Environmental Sciences and Engineering, School of Engineering, Shiv Nadar University Chennai
 
-*This repository serves as a collective campus biodiversity inventory and is maintained by B.Tech CSE (IoT) - A [2025 - 2029 ].*
+*This repository serves as a collective campus biodiversity inventory and is maintained by B.Tech CSE (IoT) - A [2025 - 2029].*
