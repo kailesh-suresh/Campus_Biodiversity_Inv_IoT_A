@@ -30,7 +30,7 @@ A field survey and biodiversity documentation report compiled as a collective cl
 - Sports Complex
 - Fountain Region
 
-## Conclusion : 
+## Conclusion 
 
 Our campus biodiversity survey revealed that the campus supports a considerable level of biodiversity, especially in plant species. The presence of butterflies, beetles, lizards, millipedes, slugs, and mushrooms indicates diverse microhabitats such as gardens, leaf litter, damp areas, shaded walls, and open grassy spaces.
 
